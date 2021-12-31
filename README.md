@@ -1,16 +1,21 @@
 # accessibility-code-refractor
+
 Code accessibility updates for marketing client
 
 HTML semantic updates;
-11-26 replaced div with header
-13-25 replaced div with nav
-28 replaced div with img
-30-52 replaced div with main & div with section
-54-76 replaced div with aside & div with article
-78-83 replaced div with footer
+Made webpage title company name instead of generic "website"
+Replaced div with header
+Replaced div with nav (html & CSS)
+Replaced div with img
+Replaced div with main & div with section
+Replaced div with aside & div with article
+Replaced div with footer
+Fixed nav anchor click jump to section "Search Engine Optimization" by adding ID to section
 
 HTML accessibility updates;
-added alt descriptions for all images
+Added alt descriptions for all images
 
 CSS functionality updates;
-Nav anchor click jump to section fix for "Search Engine Optimization"
+Replaced header div tags with nav html update
+Combined CSS styling tags for main & aside sections
+Deleted extra styling
