@@ -1,4 +1,4 @@
-# <accessibility-code-refractor>
+# accessibility-code-refractor
 
 ## Description
 
@@ -8,28 +8,29 @@ The following is a list of updates;
 
 ### HTML semantic updates
 
--Made webpage title company name instead of generic "website"
--Replaced div with header
--Replaced div with nav (html & CSS)
--Replaced div with img
--Replaced div with main & div with section
--Replaced div with aside & div with article
--Replaced div with footer
--Fixed nav anchor click jump to section "Search Engine Optimization" by adding ID to section
+- Made webpage title company name instead of generic "website"
+- Replaced div with header
+- Replaced div with nav (html & CSS)
+- Replaced div with img
+- Replaced div with main & div with section
+- Replaced div with aside & div with article
+- Replaced div with footer
+- Fixed nav anchor click jump to section "Search Engine Optimization" by adding ID to section
 
 ### HTML accessibility updates
 
-Added alt descriptions for all images
+- Added alt descriptions for all images
 
 ### CSS functionality updates
 
--Replaced header div tags with nav html update
--Combined CSS styling tags for main & aside sections
--Deleted extra styling
+- Replaced header div tags with nav html update
+- Combined CSS styling tags for main & aside sections
+- Deleted extra styling
 
 ## Usage
 
 Please visit the webpage here [Horiseon](https://ericalorrainemitchell.github.io/accessibility-code-refractor/).
 
 This is an image of the desired appearance and functionality:
-[WebpageScreenshot](./assets/images/horiseon-webpage.PNG)
+
+![WebpageScreenshot](./assets/images/horiseon-webpage.PNG)
