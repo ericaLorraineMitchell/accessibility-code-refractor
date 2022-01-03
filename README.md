@@ -32,4 +32,4 @@ Added alt descriptions for all images
 Please visit the webpage here [Horiseon](https://ericalorrainemitchell.github.io/accessibility-code-refractor/).
 
 This is an image of the desired appearance and functionality:
-![WebpageScreenshot](./assets/images/horiseon-webpage.PNG)
+[WebpageScreenshot](./assets/images/horiseon-webpage.PNG)
